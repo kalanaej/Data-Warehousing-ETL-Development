@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{84E96A64-DA92-4D3E-8B77-212F34073AD5}" Name="CampaignData Profile">
+      <DtsConnectionManagerID>CampaignData Profile</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{998C9A28-E399-4D55-B04E-C79BF6D04833}" Name="CoupanItemMapping Profile">
+      <DtsConnectionManagerID>CoupanItemMapping Profile</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{B7796050-5209-458C-BFDE-F6F546FDFB11}" Name="CustomerDemographics Profile">
+      <DtsConnectionManagerID>CustomerDemographics Profile</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{B21B3FA6-9B9B-4FB7-A6AF-859F240D0C8C}" Name="CustomerTransaction Profile">
+      <DtsConnectionManagerID>CustomerTransaction Profile</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{407DE697-8D8B-43BB-B407-EF5F14107E14}" Name="Item Profile">
+      <DtsConnectionManagerID>Item Profile</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{86AA9483-4FDF-4914-8A84-9C60F87B2047}" Name="ItemDataProfile">
+      <DtsConnectionManagerID>ItemDataProfile</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{423D42F4-9813-48DD-B084-C2A75E6E7B3B}" Name="ItemDataProfile 1">
+      <DtsConnectionManagerID>ItemDataProfile 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{2D7C46A3-E96E-4526-A467-82646235EC8E}" Name="ItemDataProfile 2">
+      <DtsConnectionManagerID>ItemDataProfile 2</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{B2EBA8EC-43E9-4AEA-90B9-A35748B67D39}" Name="SERVER2016.Assignment1_Stagging">
+      <DtsConnectionManagerID>SERVER2016.Assignment1_Stagging</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{90CF590E-757C-4A11-9516-19CBCCB8FF44}" Name="Train Profile">
+      <DtsConnectionManagerID>Train Profile</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests />
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles />
+  </DataProfileOutput>
+</DataProfile>
