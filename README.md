@@ -1,4 +1,4 @@
-# Data-Warehousing-ETL-development
+# Data-Warehousing-ETL-Development
 
 * Data Source -: Source files(contain csv files & txt files)
 * Data Warehouse -: Data warehoused data base backup file( Can open by Microsoft Management studio 14)
